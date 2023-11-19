@@ -26,17 +26,14 @@ Game Screen: <br/>
 <img src="https://imgur.com/H0BWStv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
- Win Screen: <br/>
+Win Screen: <br/>
 <img src="https://i.imgur.com/OTcuL5e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
 Tie Screen:  <br/>
 <img src="https://imgur.com/0Wn6WHX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
 Lose Screen: <br/>
 <img src="https://imgur.com/86j1nKw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
