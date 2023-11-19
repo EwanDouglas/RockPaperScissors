@@ -1,16 +1,10 @@
 # Rock Paper Scissors
 
 
-
-
-<h1>JWipe - Disk Sanitization</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of a simple Visual Studio form that allows users to play a game of rock, paper, scissors versus a computer. The computer's choice is determined by a random number generator which is then compared to the user's input. After each hand the result is announced and the user has the option to play again or exit.
 
-Basic game of rock, paper, scissors written in C#. User plays versus computer
+
 <br />
 
 
@@ -21,7 +15,7 @@ Basic game of rock, paper, scissors written in C#. User plays versus computer
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> 
 
 <h2>Program walk-through:</h2>
 
@@ -32,33 +26,23 @@ Basic game of rock, paper, scissors written in C#. User plays versus computer
 <img src="https://imgur.com/H0BWStv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Win Screen: <br/>
+
+ Win Screen: <br/>
 <img src="https://i.imgur.com/OTcuL5e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Tie Screen:  <br/>
+<img src="https://imgur.com/0Wn6WHX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Lose Screen: <br/>
+<img src="https://imgur.com/86j1nKw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+
 
 <!--
  ```diff
