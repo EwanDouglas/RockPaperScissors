@@ -28,7 +28,11 @@ Basic game of rock, paper, scissors written in C#. User plays versus computer
 
 
 <p align="center">
-Launch the utility: <br/>
+ Game Screen: <br/>
+<img src="https://imgur.com/H0BWStv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Win Screen: <br/>
 <img src="https://i.imgur.com/OTcuL5e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
